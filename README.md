@@ -1,12 +1,12 @@
-# Ciao, sono Mattia Pavanello 👋
+# Hello, I'm Mattia Pavanello 👋
 
-## Dall'automazione industriale alle architetture software
+## From Industrial Automation to Software Architectures
 
-Il mio percorso professionale non segue una traiettoria convenzionale.
+My professional journey does not follow a conventional path.
 
-Dopo molti anni trascorsi nel mondo dell'automazione industriale, tra impianti, sistemi di controllo e attività sul campo, ho intrapreso un percorso di riqualificazione tecnica finalizzato a comprendere e progettare l'intero ciclo di vita di un sistema digitale: dal dispositivo fisico fino alle architetture cloud distribuite.
+After many years spent in the world of industrial automation, working with industrial plants, control systems, and field operations, I embarked on a technical reskilling journey aimed at understanding and designing the entire lifecycle of modern digital systems: from physical devices to distributed cloud architectures.
 
-Oggi opero all'intersezione tra:
+Today, I operate at the intersection of:
 
 - Industrial IoT
 - Software Engineering
@@ -16,69 +16,69 @@ Oggi opero all'intersezione tra:
 
 ---
 
-## Cosa sto costruendo
+## What I'm Building
 
-Il mio obiettivo è diventare una figura in grado di collegare il mondo OT (Operational Technology) con il mondo IT (Information Technology), contribuendo alla progettazione di ecosistemi Edge-to-Cloud per l'industria del futuro.
+My goal is to become a professional capable of bridging Operational Technology (OT) and Information Technology (IT), contributing to the design of Edge-to-Cloud ecosystems for the next generation of industrial systems.
 
-Attualmente sto approfondendo:
+Currently, I am focusing on:
 
 - .NET MAUI & Blazor Hybrid
 - ASP.NET Core
-- Architetture distribuite
+- Distributed Architectures
 - Industrial IoT
 - Cloud Computing
-- Embedded & Connectivity
+- Embedded Systems & Connectivity
 - System Design
 - Software Architecture
 
 ---
 
-## Esperienza attuale
+## Current Experience
 
 🔬 Industrial IoT Application Engineer Intern
 
-Progetto R&D orientato allo sviluppo di soluzioni software cross-platform per la comunicazione tra applicazioni mobili e dispositivi industriali.
+R&D project focused on the development of cross-platform software solutions enabling communication between mobile applications and industrial devices.
 
-Aree di interesse:
+Areas of interest:
 
 - Mobile Industrial Applications
-- Adaptive UI
+- Adaptive User Interfaces
 - Device Connectivity
-- MVVM Pattern
+- MVVM Architecture Pattern
 - Edge-to-Cloud Integration
-- Industrial Communication
+- Industrial Communication Systems
 
 ---
 
-## Formazione
+## Education
 
-🎓 Laurea in Ingegneria Informatica e dell'Automazione
+🎓 Bachelor's Degree in Computer and Automation Engineering
 
-Focus su:
+Current areas of study include:
 
-- Algoritmi e Strutture Dati
-- Programmazione di Applicazioni
+- Algorithms & Data Structures
+- Application Development
 - Internet of Things
-- Fondamenti di Automatica
-- Sistemi Cloud
-- Sicurezza Informatica
-- Architetture Software
+- Control Systems Fundamentals
+- Cloud Systems
+- Cybersecurity
+- Software Architectures
 
 ---
 
-## Filosofia
+## Philosophy
 
-Credo che il valore non nasca dalle singole tecnologie ma dalla capacità di integrare domini differenti.
+I believe that value does not come from individual technologies, but from the ability to integrate different domains.
 
-Un framework può cambiare.
+Frameworks evolve.
 
-Un linguaggio può diventare obsoleto.
+Programming languages change.
 
-La capacità di comprendere sistemi complessi, invece, resta.
+The ability to understand and design complex systems remains.
 
 ---
 
-## Ambiti che documenterò in questo profilo
+## Topics I Will Document Through This Profile
 
 📱 Mobile Development
 
@@ -94,11 +94,11 @@ La capacità di comprendere sistemi complessi, invece, resta.
 
 ---
 
-## Contatti
+## Connect With Me
 
-LinkedIn:
-www.linkedin.com/in/mattiapavanellosoftwaredeveloper
+**LinkedIn:**  
+https://www.linkedin.com/in/mattiapavanellosoftwaredeveloper
 
 ---
 
-> “Le sfide più interessanti non nascono dal codice che scriviamo, ma dai sistemi che siamo in grado di progettare.”
+> *"The most interesting challenges do not arise from the code we write, but from the systems we are able to design."*
