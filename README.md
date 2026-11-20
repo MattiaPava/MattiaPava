@@ -97,7 +97,7 @@ The ability to understand and design complex systems remains.
 ## Connect With Me
 
 **LinkedIn:**  
-https://www.linkedin.com/in/mattiapavanellosoftwaredeveloper
+[[https://www.linkedin.com/in/mattiapavanellosoftwaredeveloper]()](https://www.linkedin.com/in/mattiapavanello-edge-to-cloud/)
 
 ---
 
